@@ -1,1 +1,1 @@
-I don't want old projects that I don't care about anymore cluttering up my laptop or my github, but I also don't want to delete them - so i just throw them all in here with zero afterthought `¯\_(ツ)_/¯`
+I don't want old projects that I don't care about anymore cluttering up my laptop or my github, but I also don't want to delete them or not be able to edit them - so i just throw them all in here with zero afterthought `¯\_(ツ)_/¯`
