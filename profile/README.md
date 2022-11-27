@@ -1,1 +1,1 @@
-I don't want old projects that I don't care about anymore cluttering up my laptop or [my github](https://github.com/mournfully), but I also don't want to delete them or not be able to edit them - so i just throw them all in here `¯\_(ツ)_/¯` 
+I didn't want old projects that I hadn't touched in a while cluttering up my laptop or [my github](https://github.com/mournfully). But I also really didn't want to delete or archive any on the off chance that I might want to work on them again later. So, now I just throw them all in here `¯\_(ツ)_/¯` 
