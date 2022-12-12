@@ -1,1 +1,1 @@
-I didn't want old projects that I hadn't touched in a while cluttering up my laptop or [my github](https://github.com/mournfully). But I also really didn't want to delete or archive any on the off chance that I might want to work on them again later. So, now I just throw them all in here `¯\_(ツ)_/¯` 
+Every so often, I do some spring cleaning on my [github profile](https://github.com/mournfully) and tend to throw all my shitty repositories in here. `¯\_(ツ)_/¯` 
