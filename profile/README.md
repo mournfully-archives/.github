@@ -1,1 +1,1 @@
-Every so often, I do some spring cleaning on my [github profile](https://github.com/mournfully) and tend to throw all my shitty repositories in here. So, that I don't have to mirror them in my private gitea instance at home. `¯\_(ツ)_/¯` 
+Every so often, I do some spring cleaning on my [github profile](https://github.com/mournfully) and tend to throw all my shitty or sometimes just really old repositories in here. So, that I don't have to mirror them in my private gitea instance at home. `¯\_(ツ)_/¯` 
