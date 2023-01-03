@@ -3,5 +3,6 @@ Every so often, I do some spring cleaning on my [github profile](https://github.
 - if i'm no longer interested in whatever i was working on
 - if a repo was temporarily made to test something
 - if a project was a terrible idea and a waste of time 
+- if i forked something and now dont need it anymore
 
 It seems to make it much easier to focus on the projects that actually matter to me, if I have former projects moved off of my main github and laptop to someplace out of the way `¯\_(ツ)_/¯` 
